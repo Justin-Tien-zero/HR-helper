@@ -1,6 +1,7 @@
 {
-  "name": "react-example",
+  "name": "hr-helper",
   "private": true,
+  "homepage": "https://Justin-Tien-zero.github.io/HR-helper/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
