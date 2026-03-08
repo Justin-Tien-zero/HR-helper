@@ -20,7 +20,7 @@ This is a React + Vite application.
    ```bash
    npm run dev
    ```
-
+ 
 ## 📦 部署 (Deployment)
 
 專案已設定好 GitHub Actions，當你推播上 `main` 或 `master` 分支時，會自動部署到 [GitHub Pages](https://Justin-Tien-zero.github.io/HR-helper/)。請記得到 GitHub 倉庫的 **Settings > Pages** 將來源設定為 **GitHub Actions**。
